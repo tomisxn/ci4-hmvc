@@ -1,0 +1,1621 @@
+INFO - 2024-07-14 14:18:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-07-14 14:18:34 --> [DEPRECATED] Creation of dynamic property App\Filters\AuthCheckFilter::$session is deprecated in APPPATH\Filters\AuthCheckFilter.php on line 12.
+ 1 SYSTEMPATH\Filters\Filters.php(180): App\Filters\AuthCheckFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\Filters\Filters->run('account/application', 'before')
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:18:34 --> [DEPRECATED] Creation of dynamic property App\Filters\AuthCheckFilter::$identity is deprecated in APPPATH\Filters\AuthCheckFilter.php on line 13.
+ 1 SYSTEMPATH\Filters\Filters.php(180): App\Filters\AuthCheckFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\Filters\Filters->run('account/application', 'before')
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:18:35 --> [DEPRECATED] Creation of dynamic property App\Controllers\Auth::$ReviewModel is deprecated in APPPATH\Controllers\Auth.php on line 24.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Auth->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:18:35 --> [DEPRECATED] Creation of dynamic property App\Controllers\Auth::$AuditModel is deprecated in APPPATH\Controllers\Auth.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Auth->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-14 14:18:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-07-14 14:18:35 --> [DEPRECATED] Creation of dynamic property App\Controllers\Auth::$session is deprecated in APPPATH\Controllers\Auth.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Auth->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:18:35 --> [DEPRECATED] Creation of dynamic property App\Controllers\Auth::$validation is deprecated in APPPATH\Controllers\Auth.php on line 30.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Auth->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:18:35 --> [DEPRECATED] Creation of dynamic property App\Controllers\Auth::$client is deprecated in APPPATH\Controllers\Auth.php on line 32.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Auth->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:18:35 --> [DEPRECATED] Creation of dynamic property App\Controllers\Auth::$identity is deprecated in APPPATH\Controllers\BaseController.php on line 80.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:18:35 --> [DEPRECATED] Creation of dynamic property App\Controllers\Auth::$NotificationModel is deprecated in APPPATH\Controllers\BaseController.php on line 84.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:18:35 --> [DEPRECATED] Creation of dynamic property App\Controllers\Auth::$accepted_types is deprecated in APPPATH\Controllers\BaseController.php on line 87.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:18:35 --> [DEPRECATED] Creation of dynamic property App\Controllers\Auth::$max_size is deprecated in APPPATH\Controllers\BaseController.php on line 88.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:18:47 --> [DEPRECATED] Creation of dynamic property App\Controllers\Auth::$ReviewModel is deprecated in APPPATH\Controllers\Auth.php on line 24.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Auth->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:18:47 --> [DEPRECATED] Creation of dynamic property App\Controllers\Auth::$AuditModel is deprecated in APPPATH\Controllers\Auth.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Auth->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-14 14:18:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-07-14 14:18:47 --> [DEPRECATED] Creation of dynamic property App\Controllers\Auth::$session is deprecated in APPPATH\Controllers\Auth.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Auth->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:18:47 --> [DEPRECATED] Creation of dynamic property App\Controllers\Auth::$validation is deprecated in APPPATH\Controllers\Auth.php on line 30.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Auth->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:18:47 --> [DEPRECATED] Creation of dynamic property App\Controllers\Auth::$client is deprecated in APPPATH\Controllers\Auth.php on line 32.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Auth->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:18:47 --> [DEPRECATED] Creation of dynamic property App\Controllers\Auth::$identity is deprecated in APPPATH\Controllers\BaseController.php on line 80.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:18:47 --> [DEPRECATED] Creation of dynamic property App\Controllers\Auth::$NotificationModel is deprecated in APPPATH\Controllers\BaseController.php on line 84.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:18:47 --> [DEPRECATED] Creation of dynamic property App\Controllers\Auth::$accepted_types is deprecated in APPPATH\Controllers\BaseController.php on line 87.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:18:47 --> [DEPRECATED] Creation of dynamic property App\Controllers\Auth::$max_size is deprecated in APPPATH\Controllers\BaseController.php on line 88.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-14 14:18:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-07-14 14:18:47 --> [DEPRECATED] Creation of dynamic property App\Filters\AuthCheckFilter::$session is deprecated in APPPATH\Filters\AuthCheckFilter.php on line 12.
+ 1 SYSTEMPATH\Filters\Filters.php(180): App\Filters\AuthCheckFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\Filters\Filters->run('dashboard', 'before')
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:18:47 --> [DEPRECATED] Creation of dynamic property App\Filters\AuthCheckFilter::$identity is deprecated in APPPATH\Filters\AuthCheckFilter.php on line 13.
+ 1 SYSTEMPATH\Filters\Filters.php(180): App\Filters\AuthCheckFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\Filters\Filters->run('dashboard', 'before')
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:18:48 --> [DEPRECATED] Creation of dynamic property App\Controllers\Dashboard::$ReviewModel is deprecated in APPPATH\Controllers\Dashboard.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Dashboard->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:18:48 --> [DEPRECATED] Creation of dynamic property App\Controllers\Dashboard::$NotificationModel is deprecated in APPPATH\Controllers\Dashboard.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Dashboard->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:18:48 --> [DEPRECATED] Creation of dynamic property App\Controllers\Dashboard::$session is deprecated in APPPATH\Controllers\BaseController.php on line 68.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:18:48 --> [DEPRECATED] Creation of dynamic property App\Controllers\Dashboard::$validation is deprecated in APPPATH\Controllers\BaseController.php on line 77.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:18:48 --> [DEPRECATED] Creation of dynamic property App\Controllers\Dashboard::$identity is deprecated in APPPATH\Controllers\BaseController.php on line 80.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:18:48 --> [DEPRECATED] Creation of dynamic property App\Controllers\Dashboard::$AuditModel is deprecated in APPPATH\Controllers\BaseController.php on line 83.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:18:48 --> [DEPRECATED] Creation of dynamic property App\Controllers\Dashboard::$accepted_types is deprecated in APPPATH\Controllers\BaseController.php on line 87.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:18:48 --> [DEPRECATED] Creation of dynamic property App\Controllers\Dashboard::$max_size is deprecated in APPPATH\Controllers\BaseController.php on line 88.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:18:48 --> [DEPRECATED] Creation of dynamic property App\Controllers\Dashboard::$notifs is deprecated in APPPATH\Controllers\BaseController.php on line 95.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-14 14:18:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-07-14 14:18:52 --> [DEPRECATED] Creation of dynamic property App\Filters\AuthCheckFilter::$session is deprecated in APPPATH\Filters\AuthCheckFilter.php on line 12.
+ 1 SYSTEMPATH\Filters\Filters.php(180): App\Filters\AuthCheckFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\Filters\Filters->run('account/application', 'before')
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:18:52 --> [DEPRECATED] Creation of dynamic property App\Filters\AuthCheckFilter::$identity is deprecated in APPPATH\Filters\AuthCheckFilter.php on line 13.
+ 1 SYSTEMPATH\Filters\Filters.php(180): App\Filters\AuthCheckFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\Filters\Filters->run('account/application', 'before')
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:18:52 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$AccountModel is deprecated in APPPATH\Controllers\Account.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:18:52 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$FirmsModel is deprecated in APPPATH\Controllers\Account.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:18:52 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$SmeModel is deprecated in APPPATH\Controllers\Account.php on line 22.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:18:52 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$CooperativesModel is deprecated in APPPATH\Controllers\Account.php on line 23.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:18:52 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$IndividualConsultantsModel is deprecated in APPPATH\Controllers\Account.php on line 24.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:18:52 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$StartupsModel is deprecated in APPPATH\Controllers\Account.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:18:52 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$StartupSupportModel is deprecated in APPPATH\Controllers\Account.php on line 26.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:18:52 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$ComplianceModel is deprecated in APPPATH\Controllers\Account.php on line 27.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:18:52 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$session is deprecated in APPPATH\Controllers\BaseController.php on line 68.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:18:52 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$emailService is deprecated in APPPATH\Controllers\BaseController.php on line 71.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:18:52 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$validation is deprecated in APPPATH\Controllers\BaseController.php on line 77.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:18:52 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$identity is deprecated in APPPATH\Controllers\BaseController.php on line 80.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:18:52 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$AuditModel is deprecated in APPPATH\Controllers\BaseController.php on line 83.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:18:52 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$NotificationModel is deprecated in APPPATH\Controllers\BaseController.php on line 84.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:18:52 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$accepted_types is deprecated in APPPATH\Controllers\BaseController.php on line 87.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:18:52 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$max_size is deprecated in APPPATH\Controllers\BaseController.php on line 88.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:18:52 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$notifs is deprecated in APPPATH\Controllers\BaseController.php on line 95.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-07-14 14:18:52 --> Undefined variable $home
+in APPPATH\Views\template\layout.php on line 111.
+ 1 APPPATH\Views\template\layout.php(111): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $home', 'C:\\xampp\\htdocs\\gfa-tech\\cipme-new\\app\\Views\\template\\layout.php', 111)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\gfa-tech\\cipme-new\\app\\Views\\template\\layout.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('template/layout', [], true)
+ 5 APPPATH\Controllers\Account.php(286): view('template/layout', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Account->application()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Account))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-14 14:19:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-07-14 14:19:58 --> [DEPRECATED] Creation of dynamic property App\Filters\AuthCheckFilter::$session is deprecated in APPPATH\Filters\AuthCheckFilter.php on line 12.
+ 1 SYSTEMPATH\Filters\Filters.php(180): App\Filters\AuthCheckFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\Filters\Filters->run('account/application', 'before')
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:19:58 --> [DEPRECATED] Creation of dynamic property App\Filters\AuthCheckFilter::$identity is deprecated in APPPATH\Filters\AuthCheckFilter.php on line 13.
+ 1 SYSTEMPATH\Filters\Filters.php(180): App\Filters\AuthCheckFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\Filters\Filters->run('account/application', 'before')
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:19:58 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$AccountModel is deprecated in APPPATH\Controllers\Account.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:19:58 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$FirmsModel is deprecated in APPPATH\Controllers\Account.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:19:58 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$SmeModel is deprecated in APPPATH\Controllers\Account.php on line 22.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:19:58 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$CooperativesModel is deprecated in APPPATH\Controllers\Account.php on line 23.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:19:58 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$IndividualConsultantsModel is deprecated in APPPATH\Controllers\Account.php on line 24.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:19:58 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$StartupsModel is deprecated in APPPATH\Controllers\Account.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:19:58 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$StartupSupportModel is deprecated in APPPATH\Controllers\Account.php on line 26.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:19:58 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$ComplianceModel is deprecated in APPPATH\Controllers\Account.php on line 27.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:19:58 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$session is deprecated in APPPATH\Controllers\BaseController.php on line 68.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:19:58 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$emailService is deprecated in APPPATH\Controllers\BaseController.php on line 71.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:19:58 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$validation is deprecated in APPPATH\Controllers\BaseController.php on line 77.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:19:58 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$identity is deprecated in APPPATH\Controllers\BaseController.php on line 80.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:19:58 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$AuditModel is deprecated in APPPATH\Controllers\BaseController.php on line 83.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:19:58 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$NotificationModel is deprecated in APPPATH\Controllers\BaseController.php on line 84.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:19:58 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$accepted_types is deprecated in APPPATH\Controllers\BaseController.php on line 87.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:19:58 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$max_size is deprecated in APPPATH\Controllers\BaseController.php on line 88.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:19:58 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$notifs is deprecated in APPPATH\Controllers\BaseController.php on line 95.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-14 14:21:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-07-14 14:21:17 --> [DEPRECATED] Creation of dynamic property App\Filters\AuthCheckFilter::$session is deprecated in APPPATH\Filters\AuthCheckFilter.php on line 12.
+ 1 SYSTEMPATH\Filters\Filters.php(180): App\Filters\AuthCheckFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\Filters\Filters->run('account/application', 'before')
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:21:17 --> [DEPRECATED] Creation of dynamic property App\Filters\AuthCheckFilter::$identity is deprecated in APPPATH\Filters\AuthCheckFilter.php on line 13.
+ 1 SYSTEMPATH\Filters\Filters.php(180): App\Filters\AuthCheckFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\Filters\Filters->run('account/application', 'before')
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:21:17 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$AccountModel is deprecated in APPPATH\Controllers\Account.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:21:17 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$FirmsModel is deprecated in APPPATH\Controllers\Account.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:21:17 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$SmeModel is deprecated in APPPATH\Controllers\Account.php on line 22.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:21:17 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$CooperativesModel is deprecated in APPPATH\Controllers\Account.php on line 23.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:21:17 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$IndividualConsultantsModel is deprecated in APPPATH\Controllers\Account.php on line 24.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:21:17 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$StartupsModel is deprecated in APPPATH\Controllers\Account.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:21:17 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$StartupSupportModel is deprecated in APPPATH\Controllers\Account.php on line 26.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:21:17 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$ComplianceModel is deprecated in APPPATH\Controllers\Account.php on line 27.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:21:17 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$session is deprecated in APPPATH\Controllers\BaseController.php on line 68.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:21:17 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$emailService is deprecated in APPPATH\Controllers\BaseController.php on line 71.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:21:17 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$validation is deprecated in APPPATH\Controllers\BaseController.php on line 77.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:21:17 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$identity is deprecated in APPPATH\Controllers\BaseController.php on line 80.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:21:17 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$AuditModel is deprecated in APPPATH\Controllers\BaseController.php on line 83.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:21:17 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$NotificationModel is deprecated in APPPATH\Controllers\BaseController.php on line 84.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:21:17 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$accepted_types is deprecated in APPPATH\Controllers\BaseController.php on line 87.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:21:17 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$max_size is deprecated in APPPATH\Controllers\BaseController.php on line 88.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:21:17 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$notifs is deprecated in APPPATH\Controllers\BaseController.php on line 95.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-14 14:22:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-07-14 14:22:39 --> [DEPRECATED] Creation of dynamic property App\Filters\AuthCheckFilter::$session is deprecated in APPPATH\Filters\AuthCheckFilter.php on line 12.
+ 1 SYSTEMPATH\Filters\Filters.php(180): App\Filters\AuthCheckFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\Filters\Filters->run('account/application', 'before')
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:22:39 --> [DEPRECATED] Creation of dynamic property App\Filters\AuthCheckFilter::$identity is deprecated in APPPATH\Filters\AuthCheckFilter.php on line 13.
+ 1 SYSTEMPATH\Filters\Filters.php(180): App\Filters\AuthCheckFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\Filters\Filters->run('account/application', 'before')
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:22:39 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$AccountModel is deprecated in APPPATH\Controllers\Account.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:22:39 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$FirmsModel is deprecated in APPPATH\Controllers\Account.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:22:39 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$SmeModel is deprecated in APPPATH\Controllers\Account.php on line 22.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:22:39 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$CooperativesModel is deprecated in APPPATH\Controllers\Account.php on line 23.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:22:39 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$IndividualConsultantsModel is deprecated in APPPATH\Controllers\Account.php on line 24.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:22:39 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$StartupsModel is deprecated in APPPATH\Controllers\Account.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:22:39 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$StartupSupportModel is deprecated in APPPATH\Controllers\Account.php on line 26.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:22:39 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$ComplianceModel is deprecated in APPPATH\Controllers\Account.php on line 27.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:22:39 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$session is deprecated in APPPATH\Controllers\BaseController.php on line 68.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:22:39 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$emailService is deprecated in APPPATH\Controllers\BaseController.php on line 71.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:22:39 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$validation is deprecated in APPPATH\Controllers\BaseController.php on line 77.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:22:39 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$identity is deprecated in APPPATH\Controllers\BaseController.php on line 80.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:22:39 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$AuditModel is deprecated in APPPATH\Controllers\BaseController.php on line 83.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:22:39 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$NotificationModel is deprecated in APPPATH\Controllers\BaseController.php on line 84.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:22:39 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$accepted_types is deprecated in APPPATH\Controllers\BaseController.php on line 87.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:22:39 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$max_size is deprecated in APPPATH\Controllers\BaseController.php on line 88.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:22:39 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$notifs is deprecated in APPPATH\Controllers\BaseController.php on line 95.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-14 14:23:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-07-14 14:23:54 --> [DEPRECATED] Creation of dynamic property App\Filters\AuthCheckFilter::$session is deprecated in APPPATH\Filters\AuthCheckFilter.php on line 12.
+ 1 SYSTEMPATH\Filters\Filters.php(180): App\Filters\AuthCheckFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\Filters\Filters->run('account/application', 'before')
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:23:54 --> [DEPRECATED] Creation of dynamic property App\Filters\AuthCheckFilter::$identity is deprecated in APPPATH\Filters\AuthCheckFilter.php on line 13.
+ 1 SYSTEMPATH\Filters\Filters.php(180): App\Filters\AuthCheckFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\Filters\Filters->run('account/application', 'before')
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:23:54 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$AccountModel is deprecated in APPPATH\Controllers\Account.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:23:54 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$FirmsModel is deprecated in APPPATH\Controllers\Account.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:23:54 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$SmeModel is deprecated in APPPATH\Controllers\Account.php on line 22.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:23:54 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$CooperativesModel is deprecated in APPPATH\Controllers\Account.php on line 23.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:23:54 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$IndividualConsultantsModel is deprecated in APPPATH\Controllers\Account.php on line 24.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:23:54 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$StartupsModel is deprecated in APPPATH\Controllers\Account.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:23:54 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$StartupSupportModel is deprecated in APPPATH\Controllers\Account.php on line 26.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:23:54 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$ComplianceModel is deprecated in APPPATH\Controllers\Account.php on line 27.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:23:54 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$session is deprecated in APPPATH\Controllers\BaseController.php on line 68.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:23:54 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$emailService is deprecated in APPPATH\Controllers\BaseController.php on line 71.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:23:54 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$validation is deprecated in APPPATH\Controllers\BaseController.php on line 77.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:23:54 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$identity is deprecated in APPPATH\Controllers\BaseController.php on line 80.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:23:54 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$AuditModel is deprecated in APPPATH\Controllers\BaseController.php on line 83.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:23:54 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$NotificationModel is deprecated in APPPATH\Controllers\BaseController.php on line 84.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:23:54 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$accepted_types is deprecated in APPPATH\Controllers\BaseController.php on line 87.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:23:54 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$max_size is deprecated in APPPATH\Controllers\BaseController.php on line 88.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:23:54 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$notifs is deprecated in APPPATH\Controllers\BaseController.php on line 95.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-14 14:27:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-07-14 14:27:45 --> [DEPRECATED] Creation of dynamic property App\Filters\AuthCheckFilter::$session is deprecated in APPPATH\Filters\AuthCheckFilter.php on line 12.
+ 1 SYSTEMPATH\Filters\Filters.php(180): App\Filters\AuthCheckFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\Filters\Filters->run('account/application', 'before')
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:27:45 --> [DEPRECATED] Creation of dynamic property App\Filters\AuthCheckFilter::$identity is deprecated in APPPATH\Filters\AuthCheckFilter.php on line 13.
+ 1 SYSTEMPATH\Filters\Filters.php(180): App\Filters\AuthCheckFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\Filters\Filters->run('account/application', 'before')
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:27:45 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$AccountModel is deprecated in APPPATH\Controllers\Account.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:27:45 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$FirmsModel is deprecated in APPPATH\Controllers\Account.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:27:45 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$SmeModel is deprecated in APPPATH\Controllers\Account.php on line 22.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:27:45 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$CooperativesModel is deprecated in APPPATH\Controllers\Account.php on line 23.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:27:45 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$IndividualConsultantsModel is deprecated in APPPATH\Controllers\Account.php on line 24.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:27:45 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$StartupsModel is deprecated in APPPATH\Controllers\Account.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:27:45 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$StartupSupportModel is deprecated in APPPATH\Controllers\Account.php on line 26.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:27:45 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$ComplianceModel is deprecated in APPPATH\Controllers\Account.php on line 27.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:27:46 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$session is deprecated in APPPATH\Controllers\BaseController.php on line 68.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:27:46 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$emailService is deprecated in APPPATH\Controllers\BaseController.php on line 71.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:27:46 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$validation is deprecated in APPPATH\Controllers\BaseController.php on line 77.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:27:46 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$identity is deprecated in APPPATH\Controllers\BaseController.php on line 80.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:27:46 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$AuditModel is deprecated in APPPATH\Controllers\BaseController.php on line 83.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:27:46 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$NotificationModel is deprecated in APPPATH\Controllers\BaseController.php on line 84.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:27:46 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$accepted_types is deprecated in APPPATH\Controllers\BaseController.php on line 87.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:27:46 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$max_size is deprecated in APPPATH\Controllers\BaseController.php on line 88.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:27:46 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$notifs is deprecated in APPPATH\Controllers\BaseController.php on line 95.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-14 14:44:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-07-14 14:44:12 --> [DEPRECATED] Creation of dynamic property App\Filters\AuthCheckFilter::$session is deprecated in APPPATH\Filters\AuthCheckFilter.php on line 12.
+ 1 SYSTEMPATH\Filters\Filters.php(180): App\Filters\AuthCheckFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\Filters\Filters->run('account/application', 'before')
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:44:12 --> [DEPRECATED] Creation of dynamic property App\Filters\AuthCheckFilter::$identity is deprecated in APPPATH\Filters\AuthCheckFilter.php on line 13.
+ 1 SYSTEMPATH\Filters\Filters.php(180): App\Filters\AuthCheckFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\Filters\Filters->run('account/application', 'before')
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:44:12 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$AccountModel is deprecated in APPPATH\Controllers\Account.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:44:12 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$FirmsModel is deprecated in APPPATH\Controllers\Account.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:44:12 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$SmeModel is deprecated in APPPATH\Controllers\Account.php on line 22.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:44:12 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$CooperativesModel is deprecated in APPPATH\Controllers\Account.php on line 23.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:44:12 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$IndividualConsultantsModel is deprecated in APPPATH\Controllers\Account.php on line 24.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:44:12 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$StartupsModel is deprecated in APPPATH\Controllers\Account.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:44:12 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$StartupSupportModel is deprecated in APPPATH\Controllers\Account.php on line 26.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:44:12 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$ComplianceModel is deprecated in APPPATH\Controllers\Account.php on line 27.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:44:12 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$session is deprecated in APPPATH\Controllers\BaseController.php on line 68.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:44:12 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$emailService is deprecated in APPPATH\Controllers\BaseController.php on line 71.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:44:12 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$validation is deprecated in APPPATH\Controllers\BaseController.php on line 77.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:44:12 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$identity is deprecated in APPPATH\Controllers\BaseController.php on line 80.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:44:12 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$AuditModel is deprecated in APPPATH\Controllers\BaseController.php on line 83.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:44:12 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$NotificationModel is deprecated in APPPATH\Controllers\BaseController.php on line 84.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:44:12 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$accepted_types is deprecated in APPPATH\Controllers\BaseController.php on line 87.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:44:12 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$max_size is deprecated in APPPATH\Controllers\BaseController.php on line 88.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:44:12 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$notifs is deprecated in APPPATH\Controllers\BaseController.php on line 95.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-14 14:59:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-07-14 14:59:23 --> [DEPRECATED] Creation of dynamic property App\Filters\AuthCheckFilter::$session is deprecated in APPPATH\Filters\AuthCheckFilter.php on line 12.
+ 1 SYSTEMPATH\Filters\Filters.php(180): App\Filters\AuthCheckFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\Filters\Filters->run('account/application', 'before')
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:59:23 --> [DEPRECATED] Creation of dynamic property App\Filters\AuthCheckFilter::$identity is deprecated in APPPATH\Filters\AuthCheckFilter.php on line 13.
+ 1 SYSTEMPATH\Filters\Filters.php(180): App\Filters\AuthCheckFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\Filters\Filters->run('account/application', 'before')
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:59:23 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$AccountModel is deprecated in APPPATH\Controllers\Account.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:59:23 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$FirmsModel is deprecated in APPPATH\Controllers\Account.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:59:23 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$SmeModel is deprecated in APPPATH\Controllers\Account.php on line 22.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:59:23 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$CooperativesModel is deprecated in APPPATH\Controllers\Account.php on line 23.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:59:23 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$IndividualConsultantsModel is deprecated in APPPATH\Controllers\Account.php on line 24.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:59:23 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$StartupsModel is deprecated in APPPATH\Controllers\Account.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:59:23 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$StartupSupportModel is deprecated in APPPATH\Controllers\Account.php on line 26.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:59:23 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$ComplianceModel is deprecated in APPPATH\Controllers\Account.php on line 27.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:59:23 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$session is deprecated in APPPATH\Controllers\BaseController.php on line 68.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:59:23 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$emailService is deprecated in APPPATH\Controllers\BaseController.php on line 71.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:59:23 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$validation is deprecated in APPPATH\Controllers\BaseController.php on line 77.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:59:23 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$identity is deprecated in APPPATH\Controllers\BaseController.php on line 80.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:59:23 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$AuditModel is deprecated in APPPATH\Controllers\BaseController.php on line 83.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:59:23 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$NotificationModel is deprecated in APPPATH\Controllers\BaseController.php on line 84.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:59:23 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$accepted_types is deprecated in APPPATH\Controllers\BaseController.php on line 87.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:59:23 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$max_size is deprecated in APPPATH\Controllers\BaseController.php on line 88.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:59:23 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$notifs is deprecated in APPPATH\Controllers\BaseController.php on line 95.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-14 14:59:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-07-14 14:59:42 --> [DEPRECATED] Creation of dynamic property App\Filters\AuthCheckFilter::$session is deprecated in APPPATH\Filters\AuthCheckFilter.php on line 12.
+ 1 SYSTEMPATH\Filters\Filters.php(180): App\Filters\AuthCheckFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\Filters\Filters->run('account/application', 'before')
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:59:42 --> [DEPRECATED] Creation of dynamic property App\Filters\AuthCheckFilter::$identity is deprecated in APPPATH\Filters\AuthCheckFilter.php on line 13.
+ 1 SYSTEMPATH\Filters\Filters.php(180): App\Filters\AuthCheckFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\Filters\Filters->run('account/application', 'before')
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:59:42 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$AccountModel is deprecated in APPPATH\Controllers\Account.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:59:42 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$FirmsModel is deprecated in APPPATH\Controllers\Account.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:59:42 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$SmeModel is deprecated in APPPATH\Controllers\Account.php on line 22.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:59:42 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$CooperativesModel is deprecated in APPPATH\Controllers\Account.php on line 23.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:59:42 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$IndividualConsultantsModel is deprecated in APPPATH\Controllers\Account.php on line 24.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:59:42 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$StartupsModel is deprecated in APPPATH\Controllers\Account.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:59:42 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$StartupSupportModel is deprecated in APPPATH\Controllers\Account.php on line 26.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:59:42 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$ComplianceModel is deprecated in APPPATH\Controllers\Account.php on line 27.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:59:42 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$session is deprecated in APPPATH\Controllers\BaseController.php on line 68.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:59:42 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$emailService is deprecated in APPPATH\Controllers\BaseController.php on line 71.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:59:42 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$validation is deprecated in APPPATH\Controllers\BaseController.php on line 77.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:59:42 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$identity is deprecated in APPPATH\Controllers\BaseController.php on line 80.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:59:42 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$AuditModel is deprecated in APPPATH\Controllers\BaseController.php on line 83.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:59:42 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$NotificationModel is deprecated in APPPATH\Controllers\BaseController.php on line 84.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:59:42 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$accepted_types is deprecated in APPPATH\Controllers\BaseController.php on line 87.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:59:42 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$max_size is deprecated in APPPATH\Controllers\BaseController.php on line 88.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 14:59:42 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$notifs is deprecated in APPPATH\Controllers\BaseController.php on line 95.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-14 15:03:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-07-14 15:03:14 --> [DEPRECATED] Creation of dynamic property App\Filters\AuthCheckFilter::$session is deprecated in APPPATH\Filters\AuthCheckFilter.php on line 12.
+ 1 SYSTEMPATH\Filters\Filters.php(180): App\Filters\AuthCheckFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\Filters\Filters->run('account/application', 'before')
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 15:03:14 --> [DEPRECATED] Creation of dynamic property App\Filters\AuthCheckFilter::$identity is deprecated in APPPATH\Filters\AuthCheckFilter.php on line 13.
+ 1 SYSTEMPATH\Filters\Filters.php(180): App\Filters\AuthCheckFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\Filters\Filters->run('account/application', 'before')
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 15:03:14 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$AccountModel is deprecated in APPPATH\Controllers\Account.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 15:03:14 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$FirmsModel is deprecated in APPPATH\Controllers\Account.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 15:03:14 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$SmeModel is deprecated in APPPATH\Controllers\Account.php on line 22.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 15:03:14 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$CooperativesModel is deprecated in APPPATH\Controllers\Account.php on line 23.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 15:03:14 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$IndividualConsultantsModel is deprecated in APPPATH\Controllers\Account.php on line 24.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 15:03:14 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$StartupsModel is deprecated in APPPATH\Controllers\Account.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 15:03:14 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$StartupSupportModel is deprecated in APPPATH\Controllers\Account.php on line 26.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 15:03:14 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$ComplianceModel is deprecated in APPPATH\Controllers\Account.php on line 27.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 15:03:14 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$session is deprecated in APPPATH\Controllers\BaseController.php on line 68.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 15:03:14 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$emailService is deprecated in APPPATH\Controllers\BaseController.php on line 71.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 15:03:14 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$validation is deprecated in APPPATH\Controllers\BaseController.php on line 77.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 15:03:14 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$identity is deprecated in APPPATH\Controllers\BaseController.php on line 80.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 15:03:14 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$AuditModel is deprecated in APPPATH\Controllers\BaseController.php on line 83.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 15:03:14 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$NotificationModel is deprecated in APPPATH\Controllers\BaseController.php on line 84.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 15:03:14 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$accepted_types is deprecated in APPPATH\Controllers\BaseController.php on line 87.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 15:03:14 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$max_size is deprecated in APPPATH\Controllers\BaseController.php on line 88.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 15:03:14 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$notifs is deprecated in APPPATH\Controllers\BaseController.php on line 95.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-14 15:40:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-07-14 15:40:31 --> [DEPRECATED] Creation of dynamic property App\Filters\AuthCheckFilter::$session is deprecated in APPPATH\Filters\AuthCheckFilter.php on line 12.
+ 1 SYSTEMPATH\Filters\Filters.php(180): App\Filters\AuthCheckFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\Filters\Filters->run('account/application', 'before')
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 15:40:31 --> [DEPRECATED] Creation of dynamic property App\Filters\AuthCheckFilter::$identity is deprecated in APPPATH\Filters\AuthCheckFilter.php on line 13.
+ 1 SYSTEMPATH\Filters\Filters.php(180): App\Filters\AuthCheckFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\Filters\Filters->run('account/application', 'before')
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 15:40:31 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$AccountModel is deprecated in APPPATH\Controllers\Account.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 15:40:31 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$FirmsModel is deprecated in APPPATH\Controllers\Account.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 15:40:31 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$SmeModel is deprecated in APPPATH\Controllers\Account.php on line 22.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 15:40:31 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$CooperativesModel is deprecated in APPPATH\Controllers\Account.php on line 23.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 15:40:31 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$IndividualConsultantsModel is deprecated in APPPATH\Controllers\Account.php on line 24.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 15:40:31 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$StartupsModel is deprecated in APPPATH\Controllers\Account.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 15:40:31 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$StartupSupportModel is deprecated in APPPATH\Controllers\Account.php on line 26.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 15:40:31 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$ComplianceModel is deprecated in APPPATH\Controllers\Account.php on line 27.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 15:40:31 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$session is deprecated in APPPATH\Controllers\BaseController.php on line 68.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 15:40:31 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$emailService is deprecated in APPPATH\Controllers\BaseController.php on line 71.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 15:40:31 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$validation is deprecated in APPPATH\Controllers\BaseController.php on line 77.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 15:40:31 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$identity is deprecated in APPPATH\Controllers\BaseController.php on line 80.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 15:40:31 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$AuditModel is deprecated in APPPATH\Controllers\BaseController.php on line 83.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 15:40:31 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$NotificationModel is deprecated in APPPATH\Controllers\BaseController.php on line 84.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 15:40:31 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$accepted_types is deprecated in APPPATH\Controllers\BaseController.php on line 87.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 15:40:31 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$max_size is deprecated in APPPATH\Controllers\BaseController.php on line 88.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 15:40:31 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$notifs is deprecated in APPPATH\Controllers\BaseController.php on line 95.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-07-14 15:40:31 --> Unclosed '[' on line 3
+in APPPATH\Language\fr\app.php on line 133.
+ 1 SYSTEMPATH\Language\Language.php(223): CodeIgniter\Language\Language->requireFile('Language/fr/app.php')
+ 2 SYSTEMPATH\Language\Language.php(164): CodeIgniter\Language\Language->load('app', 'fr')
+ 3 SYSTEMPATH\Language\Language.php(99): CodeIgniter\Language\Language->parseLine('dashboard', 'fr')
+ 4 SYSTEMPATH\Common.php(771): CodeIgniter\Language\Language->getLine('app.dashboard', [])
+ 5 APPPATH\Controllers\Account.php(402): lang('app.dashboard')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Account->application()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Account))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-14 15:40:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-07-14 15:40:49 --> [DEPRECATED] Creation of dynamic property App\Filters\AuthCheckFilter::$session is deprecated in APPPATH\Filters\AuthCheckFilter.php on line 12.
+ 1 SYSTEMPATH\Filters\Filters.php(180): App\Filters\AuthCheckFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\Filters\Filters->run('account/application', 'before')
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 15:40:49 --> [DEPRECATED] Creation of dynamic property App\Filters\AuthCheckFilter::$identity is deprecated in APPPATH\Filters\AuthCheckFilter.php on line 13.
+ 1 SYSTEMPATH\Filters\Filters.php(180): App\Filters\AuthCheckFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\Filters\Filters->run('account/application', 'before')
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 15:40:49 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$AccountModel is deprecated in APPPATH\Controllers\Account.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 15:40:49 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$FirmsModel is deprecated in APPPATH\Controllers\Account.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 15:40:49 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$SmeModel is deprecated in APPPATH\Controllers\Account.php on line 22.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 15:40:49 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$CooperativesModel is deprecated in APPPATH\Controllers\Account.php on line 23.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 15:40:49 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$IndividualConsultantsModel is deprecated in APPPATH\Controllers\Account.php on line 24.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 15:40:49 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$StartupsModel is deprecated in APPPATH\Controllers\Account.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 15:40:49 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$StartupSupportModel is deprecated in APPPATH\Controllers\Account.php on line 26.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 15:40:49 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$ComplianceModel is deprecated in APPPATH\Controllers\Account.php on line 27.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 15:40:49 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$session is deprecated in APPPATH\Controllers\BaseController.php on line 68.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 15:40:49 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$emailService is deprecated in APPPATH\Controllers\BaseController.php on line 71.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 15:40:49 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$validation is deprecated in APPPATH\Controllers\BaseController.php on line 77.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 15:40:49 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$identity is deprecated in APPPATH\Controllers\BaseController.php on line 80.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 15:40:49 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$AuditModel is deprecated in APPPATH\Controllers\BaseController.php on line 83.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 15:40:49 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$NotificationModel is deprecated in APPPATH\Controllers\BaseController.php on line 84.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 15:40:49 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$accepted_types is deprecated in APPPATH\Controllers\BaseController.php on line 87.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 15:40:49 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$max_size is deprecated in APPPATH\Controllers\BaseController.php on line 88.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 15:40:49 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$notifs is deprecated in APPPATH\Controllers\BaseController.php on line 95.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-14 15:43:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-07-14 15:43:57 --> [DEPRECATED] Creation of dynamic property App\Filters\AuthCheckFilter::$session is deprecated in APPPATH\Filters\AuthCheckFilter.php on line 12.
+ 1 SYSTEMPATH\Filters\Filters.php(180): App\Filters\AuthCheckFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\Filters\Filters->run('account/application', 'before')
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 15:43:57 --> [DEPRECATED] Creation of dynamic property App\Filters\AuthCheckFilter::$identity is deprecated in APPPATH\Filters\AuthCheckFilter.php on line 13.
+ 1 SYSTEMPATH\Filters\Filters.php(180): App\Filters\AuthCheckFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\Filters\Filters->run('account/application', 'before')
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 15:43:57 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$AccountModel is deprecated in APPPATH\Controllers\Account.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 15:43:57 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$FirmsModel is deprecated in APPPATH\Controllers\Account.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 15:43:57 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$SmeModel is deprecated in APPPATH\Controllers\Account.php on line 22.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 15:43:57 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$CooperativesModel is deprecated in APPPATH\Controllers\Account.php on line 23.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 15:43:57 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$IndividualConsultantsModel is deprecated in APPPATH\Controllers\Account.php on line 24.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 15:43:57 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$StartupsModel is deprecated in APPPATH\Controllers\Account.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 15:43:57 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$StartupSupportModel is deprecated in APPPATH\Controllers\Account.php on line 26.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 15:43:57 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$ComplianceModel is deprecated in APPPATH\Controllers\Account.php on line 27.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 15:43:57 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$session is deprecated in APPPATH\Controllers\BaseController.php on line 68.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 15:43:57 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$emailService is deprecated in APPPATH\Controllers\BaseController.php on line 71.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 15:43:57 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$validation is deprecated in APPPATH\Controllers\BaseController.php on line 77.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 15:43:57 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$identity is deprecated in APPPATH\Controllers\BaseController.php on line 80.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 15:43:57 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$AuditModel is deprecated in APPPATH\Controllers\BaseController.php on line 83.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 15:43:57 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$NotificationModel is deprecated in APPPATH\Controllers\BaseController.php on line 84.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 15:43:57 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$accepted_types is deprecated in APPPATH\Controllers\BaseController.php on line 87.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 15:43:57 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$max_size is deprecated in APPPATH\Controllers\BaseController.php on line 88.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 15:43:57 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$notifs is deprecated in APPPATH\Controllers\BaseController.php on line 95.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-14 15:48:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-07-14 15:48:37 --> [DEPRECATED] Creation of dynamic property App\Filters\AuthCheckFilter::$session is deprecated in APPPATH\Filters\AuthCheckFilter.php on line 12.
+ 1 SYSTEMPATH\Filters\Filters.php(180): App\Filters\AuthCheckFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\Filters\Filters->run('account/application', 'before')
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 15:48:37 --> [DEPRECATED] Creation of dynamic property App\Filters\AuthCheckFilter::$identity is deprecated in APPPATH\Filters\AuthCheckFilter.php on line 13.
+ 1 SYSTEMPATH\Filters\Filters.php(180): App\Filters\AuthCheckFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\Filters\Filters->run('account/application', 'before')
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 15:48:37 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$AccountModel is deprecated in APPPATH\Controllers\Account.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 15:48:37 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$FirmsModel is deprecated in APPPATH\Controllers\Account.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 15:48:37 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$SmeModel is deprecated in APPPATH\Controllers\Account.php on line 22.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 15:48:37 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$CooperativesModel is deprecated in APPPATH\Controllers\Account.php on line 23.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 15:48:37 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$IndividualConsultantsModel is deprecated in APPPATH\Controllers\Account.php on line 24.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 15:48:37 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$StartupsModel is deprecated in APPPATH\Controllers\Account.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 15:48:37 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$StartupSupportModel is deprecated in APPPATH\Controllers\Account.php on line 26.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 15:48:37 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$ComplianceModel is deprecated in APPPATH\Controllers\Account.php on line 27.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 15:48:37 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$session is deprecated in APPPATH\Controllers\BaseController.php on line 68.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 15:48:37 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$emailService is deprecated in APPPATH\Controllers\BaseController.php on line 71.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 15:48:37 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$validation is deprecated in APPPATH\Controllers\BaseController.php on line 77.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 15:48:37 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$identity is deprecated in APPPATH\Controllers\BaseController.php on line 80.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 15:48:37 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$AuditModel is deprecated in APPPATH\Controllers\BaseController.php on line 83.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 15:48:37 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$NotificationModel is deprecated in APPPATH\Controllers\BaseController.php on line 84.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 15:48:37 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$accepted_types is deprecated in APPPATH\Controllers\BaseController.php on line 87.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 15:48:37 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$max_size is deprecated in APPPATH\Controllers\BaseController.php on line 88.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 15:48:37 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$notifs is deprecated in APPPATH\Controllers\BaseController.php on line 95.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-14 15:48:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-07-14 15:48:55 --> [DEPRECATED] Creation of dynamic property App\Filters\AuthCheckFilter::$session is deprecated in APPPATH\Filters\AuthCheckFilter.php on line 12.
+ 1 SYSTEMPATH\Filters\Filters.php(180): App\Filters\AuthCheckFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\Filters\Filters->run('account/application', 'before')
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 15:48:55 --> [DEPRECATED] Creation of dynamic property App\Filters\AuthCheckFilter::$identity is deprecated in APPPATH\Filters\AuthCheckFilter.php on line 13.
+ 1 SYSTEMPATH\Filters\Filters.php(180): App\Filters\AuthCheckFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\Filters\Filters->run('account/application', 'before')
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 15:48:55 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$AccountModel is deprecated in APPPATH\Controllers\Account.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 15:48:55 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$FirmsModel is deprecated in APPPATH\Controllers\Account.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 15:48:55 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$SmeModel is deprecated in APPPATH\Controllers\Account.php on line 22.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 15:48:55 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$CooperativesModel is deprecated in APPPATH\Controllers\Account.php on line 23.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 15:48:55 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$IndividualConsultantsModel is deprecated in APPPATH\Controllers\Account.php on line 24.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 15:48:55 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$StartupsModel is deprecated in APPPATH\Controllers\Account.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 15:48:55 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$StartupSupportModel is deprecated in APPPATH\Controllers\Account.php on line 26.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 15:48:55 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$ComplianceModel is deprecated in APPPATH\Controllers\Account.php on line 27.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 15:48:55 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$session is deprecated in APPPATH\Controllers\BaseController.php on line 68.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 15:48:55 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$emailService is deprecated in APPPATH\Controllers\BaseController.php on line 71.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 15:48:55 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$validation is deprecated in APPPATH\Controllers\BaseController.php on line 77.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 15:48:55 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$identity is deprecated in APPPATH\Controllers\BaseController.php on line 80.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 15:48:55 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$AuditModel is deprecated in APPPATH\Controllers\BaseController.php on line 83.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 15:48:55 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$NotificationModel is deprecated in APPPATH\Controllers\BaseController.php on line 84.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 15:48:55 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$accepted_types is deprecated in APPPATH\Controllers\BaseController.php on line 87.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 15:48:55 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$max_size is deprecated in APPPATH\Controllers\BaseController.php on line 88.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-14 15:48:55 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$notifs is deprecated in APPPATH\Controllers\BaseController.php on line 95.
+ 1 SYSTEMPATH\CodeIgniter.php(892): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
